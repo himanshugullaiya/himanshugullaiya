@@ -7,14 +7,14 @@ After **5 years of a continuous ( Effort → Feedback → Improve**) cycle on **
 
 I have built a sharp analytical mind, a pattern-finding eye for detail, and a strong business sense of what actually drives a business. Not Just beautiful Power BI charts, I know what metrics and what kind of data to fix bottlenecks or grow a business — with implementable insights from data. 
 
-To be able to execute all above, i developed a process-oriented structure, strong-reserach and mastered silver lining of speed vs perfection, and importance of real-time feedback i.e. to be in sync with what matters.
+To be able to execute all above, i developed a process-oriented structure, strong-research and mastered silver lining of speed vs perfection, and importance of real-time feedback i.e. to be in sync with what matters.
 
 
 ***TL;DR — I can find Diamond Insights in a Raw Data Mine.***
 
 A trading terminal has 50 indicators. 90% are noise. The skill is knowing which 5 actually matter for the next decision. I've translated that directly into business analytics — I don't just report numbers, I know why they move. 
 
-I understand macro cycles, Moat, capital misallocation, what creates real business leakages, filter right signals from noise to pull right levers. That context doesn't come from a course.
+I understand macro cycles, Moat, capital misallocation, what creates real business leakages, filter right signals from noise to pull right levers. That context doesn't come from a course, but from real-world research and self-improvement from mistakes.
 
 ---
 ###  More About Me
