@@ -7,7 +7,7 @@ After **5 years of a continuous ( Effort → Feedback → Improve**) cycle on **
 
 I have built a sharp analytical mind, process-oriented, a pattern-finding eye for detail, and a strong business sense of what actually drives a business. Including beautiful Power BI charts, I know what metrics and what kind of data to fix bottlenecks or grow a business — with implementable insights from data.
 
-Personality Wise - Strong Self-Discipline, Consistency and establishing a process oriented structure is what i built, Strong-Research, mastering the silver lining of speed-perfection & Revision is what i learnt the hard way.
+Personality Wise - Strong Self-Discipline, Consistency and establishing a process oriented structure is what i built, Strong-Research, mastering the silver lining of speed vs perfection & Revision is what i learnt the hard way.
 
 
 ***TL;DR — I can find Diamond Insights in a Raw Data Mine.***
