@@ -5,13 +5,14 @@
 
 After **5 years of a continuous ( Effort → Feedback → Improve**) cycle on **trading in financial markets with real money**, changing and evolving processes and mental systems, analyzing raw data, then High-Level Data, understanding businesses — 
 
-I have built a sharp analytical mind, a pattern-finding eye for detail, and a strong business sense of what actually drives a business.
+I have built a sharp analytical mind, process-oriented, a pattern-finding eye for detail, and a strong business sense of what actually drives a business. Including beautiful Power BI charts, I know what metrics and what kind of data to fix bottlenecks or grow a business — with implementable insights from data.
 
-Including beautiful Power BI charts, I know what metrics and what kind of data to fix bottlenecks or grow a business — with implementable insights from data.
+Personality Wise - Strong Self-Discipline, Consistency and establishing a process oriented structure is what i built, Strong-Research, mastering the silver lining of speed-perfection & Revision is what i learnt the hard way.
+
 
 ***TL;DR — I can find Diamond Insights in a Raw Data Mine.***
 
-A trading terminal has 50 indicators. 90% are noise. The skill is knowing which 5 actually matter for the next decision. I've translated that directly into businesss analytics — I don't just report numbers, I know why they move.
+A trading terminal has 50 indicators. 90% are noise. The skill is knowing which 5 actually matter for the next decision. I've translated that directly into businesss analytics — I don't just report numbers, I know why they move. 
 
 I understand macro cycles, Moat, capital misallocation, what creates real business leakages, filter right insights to pull right business strings. That context doesn't come from a course.
 
