@@ -1,18 +1,5 @@
 <!-- Profile README — himanshugullaiya/himanshugullaiya -->
 
-<div align="center">
-
-# Himanshu Gullaiya
-
-### Data Analyst &nbsp;|&nbsp; Python · SQL · Power BI &nbsp;|&nbsp; Financial Markets Trader · ML Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshugullaiya)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prowealthacademy1)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshugullaiya)
-
-</div>
-
----
 
 ## About Me
 
@@ -38,6 +25,16 @@ I understand macro cycles, capital misallocation, what creates real business lea
 | Other | Excel · Git |
 
 ---
+
+<div align="center">
+
+# Himanshu Gullaiya
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshugullaiya)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prowealthacademy1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshugullaiya)
+
+</div>
 
 ## Projects
 
