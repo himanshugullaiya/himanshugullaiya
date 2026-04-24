@@ -17,13 +17,22 @@ A trading terminal has 50 indicators. 90% are noise. The skill is knowing which 
 I understand macro cycles, Moat, capital misallocation, what creates real business leakages, filter right signals from noise to pull right levers. That context doesn't come from a course.
 
 ---
-<div align="center"
+###  More About Me
+
+<div align="left"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshugullaiya)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prowealthacademy1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshugullaiya)
 
+
+
+
+
 </div>
+
+
+
 
 ## Tech Stack
 
