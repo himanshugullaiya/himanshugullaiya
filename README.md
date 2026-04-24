@@ -5,7 +5,7 @@
 
 After **5 years of a continuous ( Effort → Feedback → Improve**) cycle on **trading in financial markets with real money pressure**, changing and evolving processes and mental systems, analyzing raw data, then High-Level Data, understanding businesses — 
 
-I have built a sharp analytical mind, process-oriented, a pattern-finding eye for detail, and a strong business sense of what actually drives a business. Not Just beautiful Power BI charts, I know what metrics and what kind of data to fix bottlenecks or grow a business — with implementable insights from data. 
+I have built a sharp analytical mind, a pattern-finding eye for detail, and a strong business sense of what actually drives a business. Not Just beautiful Power BI charts, I know what metrics and what kind of data to fix bottlenecks or grow a business — with implementable insights from data. 
 
 To be able to execute all above, i developed a process-oriented structure, strong-reserach and mastered silver lining of speed vs perfection, and importance of real-time feedback i.e. to be in sync with what matters.
 
