@@ -41,7 +41,7 @@ I understand macro cycles, Moat, capital misallocation, what creates real busine
 | Data & Scripting | Python · Pandas · NumPy · EDA |
 | Databases | PostgreSQL (CTEs, Window Functions) |
 | Visualisation | Power BI · DAX · Power Query |
-| Machine Learning |·Scikit-Learn · Regression · Classification · Model Evaluation |
+| Machine Learning | Scikit-Learn · Regression · Classification · Model Evaluation |
 | Ad-Hoc Analysis | Excel · Pivot Tables · Lookups |
 
 
