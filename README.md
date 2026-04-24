@@ -14,7 +14,7 @@ To be able to execute all above, i developed a process-oriented structure, stron
 
 A trading terminal has 50 indicators. 90% are noise. The skill is knowing which 5 actually matter for the next decision. I've translated that directly into business analytics — I don't just report numbers, I know why they move. 
 
-I understand macro cycles, Moat, capital misallocation, what creates real business leakages, filter right signals from noise to help executives **take high-impact right business decisions**. That context doesn't come from a course, but from real-world research and self-improvement from mistakes.
+I understand macro cycles, Moat, capital misallocation, what creates real business leakages, filter right signals from noise to help executives **take high-impact right business decisions**. That context doesn't come from a course, but from continous real-world research & skill-improvements.
 
 ---
 ###  More About Me
