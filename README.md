@@ -1,10 +1,9 @@
 <!-- Profile README — himanshugullaiya/himanshugullaiya -->
 
-Hi There 👋
 
-## About Me
+## Hi There 👋
 
-After 5 years of a continuous **Effort → Feedback → Improve** cycle — trading in real financial markets, changing and evolving processes and mental systems — I have built a sharp analytical mind, a pattern-finding eye for detail, and a strong business sense of what actually drives a business.
+I am Himanshu, After **5 years of a continuous Effort → Feedback → Improve** cycle — trading in real financial markets, changing and evolving processes and mental systems — I have built a sharp analytical mind, a pattern-finding eye for detail, and a strong business sense of what actually drives a business.
 
 Beyond beautiful Power BI charts, I know what metrics and what kind of data to fix bottlenecks or grow a business — with implementable insights from data.
 
