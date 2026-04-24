@@ -3,11 +3,11 @@
 
 ## Hi There 👋
 
-I am Himanshu, After **5 years of a continuous Effort → Feedback → Improve** cycle — **trading in financial markets with real money**, changing and evolving processes and mental systems — I have built a sharp analytical mind, a pattern-finding eye for detail, and a strong business sense of what actually drives a business.
+I am Himanshu, After **5 years of a continuous ( Effort → Feedback → Improve**) cycle on **trading in financial markets with real money, changing and evolving processes and mental systems** — I have built a sharp analytical mind, a pattern-finding eye for detail, and a strong business sense of what actually drives a business.
 
 Beyond beautiful Power BI charts, I know what metrics and what kind of data to fix bottlenecks or grow a business — with implementable insights from data.
 
-> **TL;DR — I can find Diamond Insights in a Raw Data Mine.**
+<u> **TL;DR — I can find Diamond Insights in a Raw Data Mine.** </u>
 
 A trading terminal has 50 indicators. 90% are noise. The skill is knowing which 5 actually matter for the next decision. I've translated that directly into analytics — I don't just report numbers, I know why they move.
 
