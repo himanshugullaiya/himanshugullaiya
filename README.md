@@ -1,90 +1,20 @@
 <!-- Profile README — himanshugullaiya/himanshugullaiya -->
 
+### Hi, I'm Himanshu Gullaiya 👋
 
-### Hi There, I'm Himanshu Gullaiya 👋
-
-After **5 years of a continuous ( Effort → Feedback → Improve**) cycle on **trading in financial markets with real money pressure**, changing and evolving processes and mental systems, analyzing raw data, then High-Level Data, understanding businesses — 
-
-I have built a sharp analytical mind, a pattern-finding eye for detail, and a strong business sense of what actually drives a business. Not Just beautiful Power BI charts, I know what metrics and what kind of data to fix bottlenecks or grow a business — with implementable insights from data. 
-
-To be able to execute all above, i developed a process-oriented structure, strong-research and mastered silver lining of speed vs perfection, and importance of real-time feedback i.e. to be in sync with what matters.
-
+5 years of trading financial markets with real money — built a sharp analytical mind, pattern-finding eye, and business sense that no course teaches.
 
 ***TL;DR — I can find Diamond Insights in a Raw Data Mine.***
 
-A trading terminal has 50 indicators. 90% are noise. The skill is knowing which 5 actually matter for the next decision. I've translated that directly into business analytics — I don't just report numbers, I know why they move. 
-
-I understand macro cycles, Moat, capital misallocation, what creates real business leakages, filter right signals from noise to help executives **take high-impact right business decisions**. That context doesn't come from a course, but from continous real-world research & skill-improvements.
+A trading terminal has 50 indicators. 90% are noise. I know which 5 matter. I've translated that directly into business analytics — I don't just report numbers, I know why they move.
 
 ---
-###  More About Me
 
-<div align="left"
+**Stack** — Python · Pandas · PostgreSQL · Power BI · DAX · Excel · Scikit-Learn · Git
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshugullaiya)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prowealthacademy1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshugullaiya)
 
-
-
-
-
-</div>
-
-
-
-
-## Tech Stack
-
-| Layer | Tools |
-|-------|-------|
-| Data & Scripting | Python · Pandas · NumPy · EDA |
-| Databases | PostgreSQL (CTEs, Window Functions) |
-| Visualisation | Power BI · DAX · Power Query |
-| Machine Learning | Scikit-Learn · Regression · Classification · Model Evaluation |
-| Ad-Hoc Analysis | Excel · Pivot Tables · Lookups |
-
-
----
-
->
-
-
-
-
-
-## Projects
-
-### 📊 [HG Analytics — D2C E-Commerce Analytics](https://github.com/himanshugullaiya/D2C-ecommerce_analytics)
-
-End-to-end pipeline — synthetic Indian D2C data generated from scratch, cleaned through Medallion architecture (Bronze → Silver → Gold), loaded to PostgreSQL, visualised in a 6-tab Power BI dashboard answering real business questions.
-
-`Python` `PostgreSQL` `Power BI` `Pandas` `Faker`
-
-> ₹6.8bn Revenue · 125K Orders · 13K Customers · Cohort Retention · RFM Segmentation · Return Risk Analysis
-
----
-
-### 📈 [NSE Stock Market Analytics](https://github.com/himanshugullaiya/Equities_Market_Analytics)
-
-Automated Python pipeline — downloads live NSE Bhavcopy data daily, filters to top 1000 stocks by market cap, computes 20/50/100/200-day MAs, and serves a 3-tab Power BI dashboard with live refresh.
-
-`Python` `Power BI` `Pandas` `DAX`
-
-> Market Overview · Sector Pulse Heatmap · Stock Deep Dive · EMA Breadth Metrics · Automated Daily Pipeline
-
----
-
-## Currently
-
-- 🎯 Targeting Data Analyst roles — Fintech · BFSI · Product companies
-- 📚 SQL revision · Mock interviews
-- 📊 Trading on financial markets daily
-
----
-
-<div align="center">
-
-*CSE 2021, MSIT Janakpuri · Delhi, India*
-
-</div>
