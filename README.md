@@ -4,7 +4,7 @@
 
 5 years of trading financial markets with real money — built a sharp analytical mind, pattern-finding eye, and business sense that no course teaches.
 
-***TL;DR — I can find Diamond Insights in a Raw Data Mine.***
+***I can find Diamond Insights in a Raw Data Mine.***
 
 A trading terminal has 50 indicators. 90% are noise. I know which 5 matter. I've translated that directly into business analytics — I don't just report numbers, I know why they move.
 
